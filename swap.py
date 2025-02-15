@@ -1,5 +1,4 @@
 a,b=5,10
-a,b=b,a
+a,b=a,b
 print(a,b)
-print('the value is')
 
